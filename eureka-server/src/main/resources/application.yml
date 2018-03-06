@@ -1,5 +1,6 @@
 server:
   port: 8889
+  enable-self-preservation:true
 eureka:
   instance:
     prefer-ip-address: true
